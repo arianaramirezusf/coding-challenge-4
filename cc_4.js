@@ -38,9 +38,6 @@ for (const product of products) {
         discount += 0.05;
     } else if (customerType == "senior") {
         discount += 0.07;
-        else {
-            discount += 0;
-        }
     }
     
     
